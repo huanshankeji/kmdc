@@ -17,5 +17,4 @@ refreshVersions {
 }
 
 includeBuild("../build-conventions")
-includeBuild("../katalog")
 includeBuild("..")
